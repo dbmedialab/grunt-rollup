@@ -32,6 +32,13 @@
     "grunt": ">=0.4.0",
     "rollup": ">=0.63.4"
   },
+  "prettier": {
+    "semi": true,
+    "tabWidth": 2,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "useTabs": false
+  },
   "keywords": [
     "gruntplugin",
     "rollup"
