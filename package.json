@@ -1,5 +1,5 @@
 {
-  "name": "grunt-rollup",
+  "name": "@aller/grunt-rollup",
   "description": "Grunt plugin for rollup - next-generation ES6 module bundler",
   "version": "9.0.0",
   "homepage": "https://github.com/chrisprice/grunt-rollup",
@@ -35,5 +35,5 @@
   "keywords": [
     "gruntplugin",
     "rollup"
-  ],
+  ]
 }
